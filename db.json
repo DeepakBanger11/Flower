@@ -1,5 +1,4 @@
-{
-"get":[
+[
   {
     "plantId": "malus-pumila",
     "name": "Apple",
@@ -17,5 +16,3 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Beetroot_jm26647.jpg"
   }
 ]
-}
-
